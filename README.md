@@ -1,6 +1,6 @@
 # 🧬 Summit Biotech Attrition Analysis
 
-[👉 View my Kaggle Notebook](https://www.kaggle.com/code/danielggak/biotech-attrition-analysis?kernelSessionId=116188868). All questions and insights I wanted to discover are all noted in the Notebook. 
+[👉 View my Kaggle Notebook & Dataset](https://www.kaggle.com/code/danielggak/biotech-attrition-analysis?kernelSessionId=116188868). All questions and insights I wanted to discover are all noted in the Notebook. 
 
 ## ✍️ A little story behind the Notebook 
 April 2022, I started challenging myself with [BOLT UBC Hackathon](https://www.boltbootcamps.com/events/bolt-ubc-bootcamp-2022-sponsored-by-accenture). At that time, I applied my limitted knowledge about Python analysis tools and libraries such as ```Pandas``` and ```Matplotlib``` to solve the case. However, I didn't feel very comfortable with them so it took me ages to wrap my head around the dataset. I found it interesting when being able to pull out new insights. Slow but fun. Obviously, 24 hours was too short for me to get anything done so I decided to keep that pace, relax and just got to watch the final pitch to know how the other teams deal with this case. 
